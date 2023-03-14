@@ -25,7 +25,7 @@ Weakly supervised object localization (WSOL) is a challenging task aiming to loc
 
 
 <p align="center">
-    <img src="./Img/fig1.png" width="550"/> <br />
+    <img src="./img/fig1.png" width="550"/> <br />
     <em> 
     </em>
 </p>
@@ -38,12 +38,12 @@ Weakly supervised object localization (WSOL) is a challenging task aiming to loc
 ## 📖 Method <a name="4"></a> 
 
 <p align="center">
-    <img src="./Img/method.png" width="750"/> <br />
+    <img src="./img/method.png" width="750"/> <br />
     <em> 
     </em>
 </p>
 
-**Framework of SAT.** It includes three spatial aware transformer blocks at the end of the network. Each block generates a localization map $M^{l}$ using the spatial-query attention module. The final localization map $M$ is obtained by fusing $M^{l}$ of different layers..
+**Framework of SAT.** It includes three spatial aware transformer blocks at the end of the network. Each block generates a localization map $M^{l}$ using the spatial-query attention module. The final localization map $M$ is obtained by fusing $M^{l}$ of different layers.
 
 
 ## ✏️ Usage <a name="6"></a> 
@@ -90,13 +90,13 @@ You can download all the trained models here  ([Google Drive]( https://drive.goo
 ## 📊 Experimental Results <a name="8"></a> 
 
 <p align="center">
-    <img src="./Img/visualization.png" width="750"/> <br />
+    <img src="./img/visualization.png" width="750"/> <br />
     <em> 
     </em>
 </p>
 
 <p align="center">
-    <img src="./Img/result.png" width="750"/> <br />
+    <img src="./img/result.png" width="750"/> <br />
     <em> 
     </em>
 </p>
