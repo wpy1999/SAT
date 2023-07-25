@@ -1,4 +1,4 @@
-# Spatial-Aware Token for Weakly Supervised Object Localization (ICCV23)
+# Spatial-Aware Token for Weakly Supervised Object Localization (ICCV2023)
 
 PyTorch implementation of ''Spatial-Aware Token for Weakly Supervised Object Localization''. This repository contains PyTorch training code, inference code and pretrained models. 
 
