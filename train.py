@@ -85,7 +85,7 @@ print('\n')
 sys.stdout.log.flush()
 
 ##  save_code
-save_file = ['train.py', 'evaluator.py', 'evaluator_ImageNet.py', 'train_DDP.py']
+save_file = ['train.py', 'evaluator.py', 'evaluator_ImageNet.py', 'train_ImageNet.py.py']
 for file_name in save_file:
     shutil.copyfile(file_name, args.save_path + '/' + args.root + '/' + args.arch + '/' + args.log_code_dir + '/' + file_name)
 save_dir = ['Model', 'utils', 'DataLoader']
